@@ -1,0 +1,120 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+    font-family: 'Quicksand', sans-serif;
+    overflow: scoll;
+/*    background-image: url("onthephone.jpg");*/
+}
+
+
+#tringle {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 18px 30px 18px 77px;
+    border-color: transparent #b8b8b8 transparent transparent;
+    top: 30px;
+    position: fixed;
+    z-index: 10;
+}
+#button {
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-style: solid;
+    width: 100;
+    border-width: 1px;
+    color: #636262;
+    letter-spacing: 1px;
+    /* margin-left: 30px; */
+    /* margin-top: 30px; */
+    position: fixed;
+    top: 30px;
+    left: 110px;
+    font-size: 12px;
+    width: 150px;
+    z-index: 10;
+    border-color: #D0CFCF;
+}
+
+
+a{
+  text-decoration: none;
+  color: #B8B8B8;
+}
+
+#lol {
+    position: relative;
+    left: 10px;
+    top: -10px;
+    color: #B8B8B8;
+}
+
+#tringle:hover {
+    cursor: pointer;
+}
+
+#button:hover {
+    cursor: pointer;}
+
+
+#Design {
+    text-align: center;
+    font-size: 48px;
+    position: relative;
+    top: 70px;
+    color: #777777;
+}
+
+
+#design {
+    text-align: center;
+    font-size: 50px;
+}
+#Design {
+    text-align: center;
+    font-size: 48px;
+    position: relative;
+    top: 80px;
+    color: #777777;
+}
+
+#allthework {
+    position: relative;
+    margin-top: 100px;
+    border-style: dashed;
+    border-width: 1px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 30px;
+}
+
+.des {
+    font-size: 12px;
+}
+
+.igsweb {
+    text-align: center;
+}
+
+#title {
+    font-size: 72px;
+    text-align:center;
+    padding: 20px;
+}
+
+.title {
+    font-size: 28px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #404040;
+    letter-spacing: 2px;
+}
+
+
+
