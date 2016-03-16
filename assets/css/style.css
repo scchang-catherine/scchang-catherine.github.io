@@ -171,9 +171,9 @@ a{
 }
 
 #trollAF {
-    position: absolute;
+    position: relative;
     left: 550px;
-    bottom: 140px;
+    bottom: -135px;
     opacity: 0.35;
 }
 
@@ -191,6 +191,6 @@ a{
 
 #words {
     position: absolute;
-    bottom: 0px;
+    /* bottom: 0px; */
 }
 
