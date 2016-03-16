@@ -120,10 +120,8 @@ a{
 }a
 
 #words {
-    /* position: relative; */
-    /* top: 78px; */
     position: absolute;
-    bottom: 0px;
+    top: 230px;
 }
 
 .underscore {
